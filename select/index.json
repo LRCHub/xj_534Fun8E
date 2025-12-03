@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "天気雨の旅",
+  "base_artist": "棗いつき",
+  "createdAt": "2025-12-03T05:49:01.908956Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天気雨の旅",
+      "artist": "棗いつき",
+      "has_synced": false,
+      "path": "select/pl_01_天気雨の旅_棗いつき.txt"
+    }
+  ]
+}
